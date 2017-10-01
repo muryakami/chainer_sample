@@ -1,0 +1,1916 @@
+fetch MNIST dataset
+Complete!
+epoch : 1
+	train mean loss = 0.0934694177036484
+	test  mean loss = 0.07956430472433568
+	time = 5.879
+epoch : 2
+	train mean loss = 0.08961374416947365
+	test  mean loss = 0.07943894576281309
+	impr rate : 0.158
+	time = 7.881
+epoch : 3
+	train mean loss = 0.08963935098300378
+	test  mean loss = 0.0793992406874895
+	impr rate : 0.050
+	time = 8.118
+epoch : 4
+	train mean loss = 0.08962821241468191
+	test  mean loss = 0.0795110097900033
+	impr rate : -0.141
+	time = 8.074
+epoch : 5
+	train mean loss = 0.08932384707033635
+	test  mean loss = 0.07807142194360495
+	impr rate : 1.811
+	time = 8.188
+epoch : 6
+	train mean loss = 0.08863336894661188
+	test  mean loss = 0.07646345881745219
+	impr rate : 2.060
+	time = 8.147
+epoch : 7
+	train mean loss = 0.08743269628534714
+	test  mean loss = 0.07526780981570483
+	impr rate : 1.564
+	time = 7.953
+epoch : 8
+	train mean loss = 0.08726764811823766
+	test  mean loss = 0.0750003595650196
+	impr rate : 0.355
+	time = 8.108
+epoch : 9
+	train mean loss = 0.08723176264514526
+	test  mean loss = 0.07477677047252655
+	impr rate : 0.298
+	time = 8.113
+epoch : 10
+	train mean loss = 0.08722833052277565
+	test  mean loss = 0.07472797822207213
+	impr rate : 0.065
+	time = 8.259
+epoch : 11
+	train mean loss = 0.08707740203787884
+	test  mean loss = 0.07465621300041675
+	impr rate : 0.096
+	time = 8.396
+epoch : 12
+	train mean loss = 0.08698959199090799
+	test  mean loss = 0.07473001349717379
+	impr rate : -0.099
+	time = 8.368
+epoch : 13
+	train mean loss = 0.08696175883213679
+	test  mean loss = 0.07453294593840837
+	impr rate : 0.264
+	time = 8.500
+epoch : 14
+	train mean loss = 0.08698676720261574
+	test  mean loss = 0.07478136539459229
+	impr rate : -0.333
+	time = 7.996
+epoch : 15
+	train mean loss = 0.08695335210611423
+	test  mean loss = 0.07437035493552685
+	impr rate : 0.550
+	time = 8.380
+epoch : 16
+	train mean loss = 0.0869528658191363
+	test  mean loss = 0.07458868756890297
+	impr rate : -0.294
+	time = 8.471
+epoch : 17
+	train mean loss = 0.08698592002193133
+	test  mean loss = 0.07466601856052875
+	impr rate : -0.104
+	time = 8.550
+epoch : 18
+	train mean loss = 0.08697587388257186
+	test  mean loss = 0.07465181175619363
+	impr rate : 0.019
+	time = 8.223
+epoch : 19
+	train mean loss = 0.08698045848558346
+	test  mean loss = 0.07468379233032466
+	impr rate : -0.043
+	time = 8.363
+epoch : 20
+	train mean loss = 0.08697011237343152
+	test  mean loss = 0.07447081997990608
+	impr rate : 0.285
+	time = 8.205
+epoch : 21
+	train mean loss = 0.0869902482504646
+	test  mean loss = 0.07481771837919951
+	impr rate : -0.466
+	time = 8.204
+epoch : 22
+	train mean loss = 0.0869703738639752
+	test  mean loss = 0.07457992397248744
+	impr rate : 0.318
+	time = 8.283
+epoch : 23
+	train mean loss = 0.08700493364284435
+	test  mean loss = 0.07467239066958427
+	impr rate : -0.124
+	time = 8.296
+epoch : 24
+	train mean loss = 0.08700134829928477
+	test  mean loss = 0.07426589015871286
+	impr rate : 0.544
+	time = 9.515
+epoch : 25
+	train mean loss = 0.0869597157711784
+	test  mean loss = 0.07467903893440962
+	impr rate : -0.556
+	time = 8.198
+epoch : 26
+	train mean loss = 0.08699386401722829
+	test  mean loss = 0.07435150314122438
+	impr rate : 0.439
+	time = 8.183
+epoch : 27
+	train mean loss = 0.08699008153130611
+	test  mean loss = 0.07493558060377836
+	impr rate : -0.786
+	time = 8.116
+epoch : 28
+	train mean loss = 0.08698434747755528
+	test  mean loss = 0.07465304043143987
+	impr rate : 0.377
+	time = 7.924
+epoch : 29
+	train mean loss = 0.08695290022840102
+	test  mean loss = 0.07471788492053748
+	impr rate : -0.087
+	time = 8.086
+epoch : 30
+	train mean loss = 0.0870029845709602
+	test  mean loss = 0.07472473934292793
+	impr rate : -0.009
+	time = 8.117
+epoch : 31
+	train mean loss = 0.08693057186901569
+	test  mean loss = 0.07452315475791693
+	impr rate : 0.270
+	time = 7.908
+epoch : 32
+	train mean loss = 0.08699757251888514
+	test  mean loss = 0.07454364579170943
+	impr rate : -0.027
+	time = 8.003
+epoch : 33
+	train mean loss = 0.0869398512194554
+	test  mean loss = 0.07469861850142478
+	impr rate : -0.208
+	time = 7.998
+epoch : 34
+	train mean loss = 0.08695801572253306
+	test  mean loss = 0.07459768019616604
+	impr rate : 0.135
+	time = 7.925
+epoch : 35
+	train mean loss = 0.08693857943018278
+	test  mean loss = 0.07453206814825535
+	impr rate : 0.088
+	time = 7.910
+epoch : 36
+	train mean loss = 0.08694048177450896
+	test  mean loss = 0.0744778135791421
+	impr rate : 0.073
+	time = 7.990
+epoch : 37
+	train mean loss = 0.08700125018755595
+	test  mean loss = 0.0746068538352847
+	impr rate : -0.173
+	time = 7.928
+epoch : 38
+	train mean loss = 0.08701010712732872
+	test  mean loss = 0.0745956551656127
+	impr rate : 0.015
+	time = 7.967
+epoch : 39
+	train mean loss = 0.08693537602821987
+	test  mean loss = 0.07462949018925429
+	impr rate : -0.045
+	time = 7.957
+epoch : 40
+	train mean loss = 0.08698379820833603
+	test  mean loss = 0.07483859337866307
+	impr rate : -0.280
+	time = 8.139
+epoch : 41
+	train mean loss = 0.0869359090924263
+	test  mean loss = 0.07462981384247541
+	impr rate : 0.279
+	time = 8.036
+epoch : 42
+	train mean loss = 0.08694052411864202
+	test  mean loss = 0.07479602303355933
+	impr rate : -0.223
+	time = 8.043
+epoch : 43
+	train mean loss = 0.0870069799448053
+	test  mean loss = 0.07475876476615667
+	impr rate : 0.050
+	time = 8.081
+epoch : 44
+	train mean loss = 0.08698253105084101
+	test  mean loss = 0.07464266583323478
+	impr rate : 0.155
+	time = 7.913
+epoch : 45
+	train mean loss = 0.08695931610961755
+	test  mean loss = 0.07475257568061351
+	impr rate : -0.147
+	time = 7.949
+epoch : 46
+	train mean loss = 0.08694961433609327
+	test  mean loss = 0.07463121484965086
+	impr rate : 0.162
+	time = 7.980
+epoch : 47
+	train mean loss = 0.0870029690861702
+	test  mean loss = 0.07456810407340526
+	impr rate : 0.085
+	time = 8.038
+epoch : 48
+	train mean loss = 0.08699626532693704
+	test  mean loss = 0.07472748678177595
+	impr rate : -0.214
+	time = 8.024
+epoch : 49
+	train mean loss = 0.08699592108527819
+	test  mean loss = 0.07452675815671682
+	impr rate : 0.269
+	time = 8.023
+epoch : 50
+	train mean loss = 0.08699467061708371
+	test  mean loss = 0.07452336519956589
+	impr rate : 0.005
+	time = 7.993
+plot start : ew1(50)_images.png
+data.shape : (100, 784)
+data.shape[0] : 100
+plot end : ew1(50)_images.png
+
+plot start : dw1_T(50)_images.png
+data.shape : (100, 784)
+data.shape[0] : 100
+plot end : dw1_T(50)_images.png
+
+plot start : dec_hL1(50)_images.png
+data.shape : (100, 784)
+data.shape[0] : 100
+plot end : dec_hL1(50)_images.png
+
+plot start : enc_hL1_T(50)_images.png
+data.shape : (100, 784)
+data.shape[0] : 100
+plot end : enc_hL1_T(50)_images.png
+
+Layer : 0.010577832348644733
+画像一致率（二乗誤差）
+ew1_images, enc_hidden_T :  0.006076841149479151
+dw1_T_images, dec_hidden :  0.01179434172809124
+平均二乗誤差平方根(RMSE)
+ew1_images, enc_hidden_T :  0.07795406058406261
+dw1_T_images, dec_hidden :  0.10860183894953233
+epoch : 51
+	train mean loss = 0.0870315670967102
+	test  mean loss = 0.07478465374559164
+	ratio : 100.351
+	impr rate : -0.351
+	time = 8.280
+epoch : 52
+	train mean loss = 0.08698559993257125
+	test  mean loss = 0.07456138424575329
+	ratio : 100.051
+	impr rate : 0.299
+	time = 8.138
+epoch : 53
+	train mean loss = 0.08696331515908241
+	test  mean loss = 0.07430896542966366
+	ratio : 99.712
+	impr rate : 0.339
+	time = 8.158
+epoch : 54
+	train mean loss = 0.0869658329213659
+	test  mean loss = 0.0743260920420289
+	ratio : 99.735
+	impr rate : -0.023
+	time = 8.077
+epoch : 55
+	train mean loss = 0.08698420327156782
+	test  mean loss = 0.07459104798734188
+	ratio : 100.091
+	impr rate : -0.356
+	time = 8.092
+epoch : 56
+	train mean loss = 0.08701468773186206
+	test  mean loss = 0.07472345858812332
+	ratio : 100.268
+	impr rate : -0.178
+	time = 8.178
+epoch : 57
+	train mean loss = 0.08697573903948069
+	test  mean loss = 0.07447319652885198
+	ratio : 99.933
+	impr rate : 0.335
+	time = 8.164
+epoch : 58
+	train mean loss = 0.0869686555241545
+	test  mean loss = 0.07467941273003817
+	ratio : 100.209
+	impr rate : -0.277
+	time = 8.104
+epoch : 59
+	train mean loss = 0.08702178188910087
+	test  mean loss = 0.07482500828802585
+	ratio : 100.405
+	impr rate : -0.195
+	time = 8.248
+epoch : 60
+	train mean loss = 0.08700345784425735
+	test  mean loss = 0.07468317024409771
+	ratio : 100.214
+	impr rate : 0.190
+	time = 8.096
+epoch : 61
+	train mean loss = 0.08699889493485292
+	test  mean loss = 0.07455901656299829
+	ratio : 100.048
+	impr rate : 0.166
+	time = 8.087
+epoch : 62
+	train mean loss = 0.08698573137323061
+	test  mean loss = 0.07455700859427453
+	ratio : 100.045
+	impr rate : 0.003
+	time = 8.046
+epoch : 63
+	train mean loss = 0.0869160118078192
+	test  mean loss = 0.07460337907075881
+	ratio : 100.107
+	impr rate : -0.062
+	time = 8.103
+epoch : 64
+	train mean loss = 0.08700064967075984
+	test  mean loss = 0.07455579839646816
+	ratio : 100.044
+	impr rate : 0.064
+	time = 8.105
+epoch : 65
+	train mean loss = 0.08695072077214717
+	test  mean loss = 0.07458799194544553
+	ratio : 100.087
+	impr rate : -0.043
+	time = 7.951
+epoch : 66
+	train mean loss = 0.08695370866606633
+	test  mean loss = 0.07466676920652389
+	ratio : 100.192
+	impr rate : -0.106
+	time = 8.078
+epoch : 67
+	train mean loss = 0.08696276500821114
+	test  mean loss = 0.07478313270956277
+	ratio : 100.349
+	impr rate : -0.156
+	time = 8.069
+epoch : 68
+	train mean loss = 0.08691246293485165
+	test  mean loss = 0.07470694966614247
+	ratio : 100.246
+	impr rate : 0.102
+	time = 8.294
+epoch : 69
+	train mean loss = 0.08697225612898668
+	test  mean loss = 0.07452921897172927
+	ratio : 100.008
+	impr rate : 0.238
+	time = 8.096
+epoch : 70
+	train mean loss = 0.08693131106595198
+	test  mean loss = 0.07451193735003471
+	ratio : 99.985
+	impr rate : 0.023
+	time = 7.989
+epoch : 71
+	train mean loss = 0.08696632254868746
+	test  mean loss = 0.07466517604887485
+	ratio : 100.190
+	impr rate : -0.206
+	time = 8.054
+epoch : 72
+	train mean loss = 0.08698724436263243
+	test  mean loss = 0.07439634613692761
+	ratio : 99.830
+	impr rate : 0.360
+	time = 7.997
+epoch : 73
+	train mean loss = 0.0870034628858169
+	test  mean loss = 0.07477719116955996
+	ratio : 100.341
+	impr rate : -0.512
+	time = 8.033
+epoch : 74
+	train mean loss = 0.08691223425169786
+	test  mean loss = 0.07459652695804835
+	ratio : 100.098
+	impr rate : 0.242
+	time = 8.146
+epoch : 75
+	train mean loss = 0.0869407453139623
+	test  mean loss = 0.07460881184786558
+	ratio : 100.115
+	impr rate : -0.016
+	time = 8.066
+epoch : 76
+	train mean loss = 0.08699515347679455
+	test  mean loss = 0.07461832337081432
+	ratio : 100.127
+	impr rate : -0.013
+	time = 8.025
+epoch : 77
+	train mean loss = 0.08696731526404619
+	test  mean loss = 0.07437285996973514
+	ratio : 99.798
+	impr rate : 0.329
+	time = 7.976
+epoch : 78
+	train mean loss = 0.08698170094440381
+	test  mean loss = 0.07471270073205233
+	ratio : 100.254
+	impr rate : -0.457
+	time = 7.922
+epoch : 79
+	train mean loss = 0.08700912454475959
+	test  mean loss = 0.07484202180057764
+	ratio : 100.428
+	impr rate : -0.173
+	time = 8.295
+epoch : 80
+	train mean loss = 0.08694500939299663
+	test  mean loss = 0.07455717016011476
+	ratio : 100.045
+	impr rate : 0.381
+	time = 8.124
+epoch : 81
+	train mean loss = 0.08694654458512863
+	test  mean loss = 0.07444015558809042
+	ratio : 99.888
+	impr rate : 0.157
+	time = 8.103
+epoch : 82
+	train mean loss = 0.08695432408402363
+	test  mean loss = 0.07454073883593082
+	ratio : 100.023
+	impr rate : -0.135
+	time = 8.139
+epoch : 83
+	train mean loss = 0.08697048600763083
+	test  mean loss = 0.07465320762246846
+	ratio : 100.174
+	impr rate : -0.151
+	time = 8.022
+epoch : 84
+	train mean loss = 0.08696098446846008
+	test  mean loss = 0.0745301952585578
+	ratio : 100.009
+	impr rate : 0.165
+	time = 8.217
+epoch : 85
+	train mean loss = 0.08698024538656075
+	test  mean loss = 0.07474816896021366
+	ratio : 100.302
+	impr rate : -0.292
+	time = 8.190
+epoch : 86
+	train mean loss = 0.08695324362566073
+	test  mean loss = 0.07455082330852747
+	ratio : 100.037
+	impr rate : 0.264
+	time = 8.150
+epoch : 87
+	train mean loss = 0.08695424061268568
+	test  mean loss = 0.07451293539255857
+	ratio : 99.986
+	impr rate : 0.051
+	time = 8.339
+epoch : 88
+	train mean loss = 0.08697607683638732
+	test  mean loss = 0.0744271782040596
+	ratio : 99.871
+	impr rate : 0.115
+	time = 8.382
+epoch : 89
+	train mean loss = 0.08696043577045202
+	test  mean loss = 0.07460550673305988
+	ratio : 100.110
+	impr rate : -0.240
+	time = 8.496
+epoch : 90
+	train mean loss = 0.08696474269032478
+	test  mean loss = 0.07479170862585306
+	ratio : 100.360
+	impr rate : -0.250
+	time = 8.536
+epoch : 91
+	train mean loss = 0.08698017075657845
+	test  mean loss = 0.07459414206445217
+	ratio : 100.095
+	impr rate : 0.264
+	time = 8.812
+epoch : 92
+	train mean loss = 0.08696091753741106
+	test  mean loss = 0.07461849868297576
+	ratio : 100.128
+	impr rate : -0.033
+	time = 8.650
+epoch : 93
+	train mean loss = 0.08695705438653628
+	test  mean loss = 0.07453255452215672
+	ratio : 100.012
+	impr rate : 0.115
+	time = 9.029
+epoch : 94
+	train mean loss = 0.08697588277359804
+	test  mean loss = 0.07478068768978119
+	ratio : 100.345
+	impr rate : -0.333
+	time = 8.861
+epoch : 95
+	train mean loss = 0.08695944804698229
+	test  mean loss = 0.07472457412630319
+	ratio : 100.270
+	impr rate : 0.075
+	time = 9.156
+epoch : 96
+	train mean loss = 0.08695925618211428
+	test  mean loss = 0.0745222806930542
+	ratio : 99.999
+	impr rate : 0.271
+	time = 9.145
+epoch : 97
+	train mean loss = 0.08697176458934942
+	test  mean loss = 0.07437239989638328
+	ratio : 99.797
+	impr rate : 0.201
+	time = 9.177
+epoch : 98
+	train mean loss = 0.08700486179441214
+	test  mean loss = 0.07479660637676716
+	ratio : 100.367
+	impr rate : -0.570
+	time = 9.393
+epoch : 99
+	train mean loss = 0.08697822404404482
+	test  mean loss = 0.0744965173304081
+	ratio : 99.964
+	impr rate : 0.401
+	time = 9.347
+epoch : 100
+	train mean loss = 0.08696334417909383
+	test  mean loss = 0.07436189822852611
+	ratio : 99.783
+	impr rate : 0.181
+	time = 9.510
+plot start : ew1(100)_images.png
+data.shape : (100, 784)
+data.shape[0] : 100
+plot end : ew1(100)_images.png
+
+plot start : dw1_T(100)_images.png
+data.shape : (100, 784)
+data.shape[0] : 100
+plot end : dw1_T(100)_images.png
+
+plot start : dec_hL1(100)_images.png
+data.shape : (100, 784)
+data.shape[0] : 100
+plot end : dec_hL1(100)_images.png
+
+plot start : enc_hL1_T(100)_images.png
+data.shape : (100, 784)
+data.shape[0] : 100
+plot end : enc_hL1_T(100)_images.png
+
+Layer : 0.010581948794424534
+画像一致率（二乗誤差）
+ew1_images, enc_hidden_T :  0.006432861555367708
+dw1_T_images, dec_hidden :  0.011666396632790565
+平均二乗誤差平方根(RMSE)
+ew1_images, enc_hidden_T :  0.08020507530566325
+dw1_T_images, dec_hidden :  0.1080112415341945
+epoch : 101
+	train mean loss = 0.08697999260077874
+	test  mean loss = 0.07476288210600615
+	ratio : 100.321
+	impr rate : -0.539
+	time = 9.696
+epoch : 102
+	train mean loss = 0.0869369771828254
+	test  mean loss = 0.07442519057542085
+	ratio : 99.868
+	impr rate : 0.452
+	time = 9.779
+epoch : 103
+	train mean loss = 0.08695171603312095
+	test  mean loss = 0.07455923367291689
+	ratio : 100.048
+	impr rate : -0.180
+	time = 9.883
+epoch : 104
+	train mean loss = 0.08698060660312573
+	test  mean loss = 0.07457859922200441
+	ratio : 100.074
+	impr rate : -0.026
+	time = 10.131
+epoch : 105
+	train mean loss = 0.08696620938678583
+	test  mean loss = 0.07457917977124452
+	ratio : 100.075
+	impr rate : -0.001
+	time = 10.118
+epoch : 106
+	train mean loss = 0.08697227206081153
+	test  mean loss = 0.07481191344559193
+	ratio : 100.387
+	impr rate : -0.312
+	time = 10.196
+epoch : 107
+	train mean loss = 0.08698796824862559
+	test  mean loss = 0.07458009943366051
+	ratio : 100.076
+	impr rate : 0.310
+	time = 10.202
+epoch : 108
+	train mean loss = 0.08697243725260098
+	test  mean loss = 0.07468987219035625
+	ratio : 100.223
+	impr rate : -0.147
+	time = 10.199
+epoch : 109
+	train mean loss = 0.08695937018841506
+	test  mean loss = 0.07446137830615043
+	ratio : 99.917
+	impr rate : 0.306
+	time = 10.193
+epoch : 110
+	train mean loss = 0.08698057852685452
+	test  mean loss = 0.07451807532459498
+	ratio : 99.993
+	impr rate : -0.076
+	time = 10.372
+epoch : 111
+	train mean loss = 0.08697148670752843
+	test  mean loss = 0.07473241731524467
+	ratio : 100.281
+	impr rate : -0.288
+	time = 10.372
+epoch : 112
+	train mean loss = 0.08696643554915985
+	test  mean loss = 0.07491262540221215
+	ratio : 100.522
+	impr rate : -0.241
+	time = 10.328
+epoch : 113
+	train mean loss = 0.08696939433614413
+	test  mean loss = 0.07456837240606547
+	ratio : 100.060
+	impr rate : 0.460
+	time = 10.334
+epoch : 114
+	train mean loss = 0.08696577321738004
+	test  mean loss = 0.07483682863414287
+	ratio : 100.421
+	impr rate : -0.360
+	time = 10.384
+epoch : 115
+	train mean loss = 0.0869944620753328
+	test  mean loss = 0.07457656778395176
+	ratio : 100.071
+	impr rate : 0.348
+	time = 10.590
+epoch : 116
+	train mean loss = 0.08698939986526966
+	test  mean loss = 0.07477925017476082
+	ratio : 100.343
+	impr rate : -0.272
+	time = 10.487
+epoch : 117
+	train mean loss = 0.08691856405387322
+	test  mean loss = 0.07452190980315208
+	ratio : 99.998
+	impr rate : 0.344
+	time = 10.672
+epoch : 118
+	train mean loss = 0.0869713007286191
+	test  mean loss = 0.07438430488109589
+	ratio : 99.813
+	impr rate : 0.185
+	time = 10.753
+epoch : 119
+	train mean loss = 0.08692863751202821
+	test  mean loss = 0.0744268225133419
+	ratio : 99.870
+	impr rate : -0.057
+	time = 10.587
+epoch : 120
+	train mean loss = 0.08699461467564105
+	test  mean loss = 0.07464377030730247
+	ratio : 100.162
+	impr rate : -0.291
+	time = 10.504
+epoch : 121
+	train mean loss = 0.08696386437863111
+	test  mean loss = 0.07446902960538865
+	ratio : 99.927
+	impr rate : 0.234
+	time = 10.784
+epoch : 122
+	train mean loss = 0.08700739682962497
+	test  mean loss = 0.07485248051583766
+	ratio : 100.442
+	impr rate : -0.515
+	time = 10.971
+epoch : 123
+	train mean loss = 0.08696842641880115
+	test  mean loss = 0.0745336925983429
+	ratio : 100.014
+	impr rate : 0.426
+	time = 10.843
+epoch : 124
+	train mean loss = 0.08693937942385674
+	test  mean loss = 0.07452200282365083
+	ratio : 99.998
+	impr rate : 0.016
+	time = 10.656
+epoch : 125
+	train mean loss = 0.0869894877821207
+	test  mean loss = 0.07490912925451994
+	ratio : 100.518
+	impr rate : -0.519
+	time = 10.777
+epoch : 126
+	train mean loss = 0.08700420279055834
+	test  mean loss = 0.07474638927727938
+	ratio : 100.299
+	impr rate : 0.217
+	time = 10.737
+epoch : 127
+	train mean loss = 0.086973178734382
+	test  mean loss = 0.07431893322616816
+	ratio : 99.726
+	impr rate : 0.572
+	time = 10.752
+epoch : 128
+	train mean loss = 0.08694268501053254
+	test  mean loss = 0.07442894000560045
+	ratio : 99.873
+	impr rate : -0.148
+	time = 10.714
+epoch : 129
+	train mean loss = 0.08701353137691815
+	test  mean loss = 0.07436193030327559
+	ratio : 99.783
+	impr rate : 0.090
+	time = 10.777
+epoch : 130
+	train mean loss = 0.08700412147988876
+	test  mean loss = 0.07427601840347052
+	ratio : 99.668
+	impr rate : 0.116
+	time = 10.624
+epoch : 131
+	train mean loss = 0.08698606789112091
+	test  mean loss = 0.07438479706645013
+	ratio : 99.814
+	impr rate : -0.146
+	time = 10.635
+epoch : 132
+	train mean loss = 0.0870176553229491
+	test  mean loss = 0.07467867348343134
+	ratio : 100.208
+	impr rate : -0.395
+	time = 10.720
+epoch : 133
+	train mean loss = 0.08697894750783841
+	test  mean loss = 0.07449345786124467
+	ratio : 99.960
+	impr rate : 0.248
+	time = 10.663
+epoch : 134
+	train mean loss = 0.08697574996699889
+	test  mean loss = 0.07462887030094861
+	ratio : 100.142
+	impr rate : -0.182
+	time = 10.646
+epoch : 135
+	train mean loss = 0.08695953547954559
+	test  mean loss = 0.07441652107983827
+	ratio : 99.857
+	impr rate : 0.285
+	time = 10.545
+epoch : 136
+	train mean loss = 0.08696043177197377
+	test  mean loss = 0.0745972903072834
+	ratio : 100.099
+	impr rate : -0.243
+	time = 10.657
+epoch : 137
+	train mean loss = 0.08696683404346307
+	test  mean loss = 0.07436626128852368
+	ratio : 99.789
+	impr rate : 0.310
+	time = 10.541
+epoch : 138
+	train mean loss = 0.08694149581094583
+	test  mean loss = 0.07444890450686216
+	ratio : 99.900
+	impr rate : -0.111
+	time = 10.513
+epoch : 139
+	train mean loss = 0.08696825926502545
+	test  mean loss = 0.07473407592624426
+	ratio : 100.283
+	impr rate : -0.383
+	time = 10.543
+epoch : 140
+	train mean loss = 0.08695865700642268
+	test  mean loss = 0.07435307737439871
+	ratio : 99.771
+	impr rate : 0.510
+	time = 10.610
+epoch : 141
+	train mean loss = 0.08698460401346286
+	test  mean loss = 0.07438624288886786
+	ratio : 99.816
+	impr rate : -0.045
+	time = 10.649
+epoch : 142
+	train mean loss = 0.08693285307536523
+	test  mean loss = 0.07465770732611418
+	ratio : 100.180
+	impr rate : -0.365
+	time = 10.538
+epoch : 143
+	train mean loss = 0.0869417167082429
+	test  mean loss = 0.07436348505318165
+	ratio : 99.785
+	impr rate : 0.394
+	time = 10.530
+epoch : 144
+	train mean loss = 0.08697766841699679
+	test  mean loss = 0.07446717981249094
+	ratio : 99.925
+	impr rate : -0.139
+	time = 10.478
+epoch : 145
+	train mean loss = 0.08694544884065787
+	test  mean loss = 0.07462657250463962
+	ratio : 100.138
+	impr rate : -0.214
+	time = 10.540
+epoch : 146
+	train mean loss = 0.08697972901165485
+	test  mean loss = 0.0743898692727089
+	ratio : 99.821
+	impr rate : 0.317
+	time = 10.468
+epoch : 147
+	train mean loss = 0.08696376947065194
+	test  mean loss = 0.07446982894092798
+	ratio : 99.928
+	impr rate : -0.107
+	time = 10.605
+epoch : 148
+	train mean loss = 0.08695225556691488
+	test  mean loss = 0.07435071025043725
+	ratio : 99.768
+	impr rate : 0.160
+	time = 10.566
+epoch : 149
+	train mean loss = 0.08696614573399226
+	test  mean loss = 0.07453095134347677
+	ratio : 100.010
+	impr rate : -0.242
+	time = 10.526
+epoch : 150
+	train mean loss = 0.08695444500694673
+	test  mean loss = 0.07456060025840998
+	ratio : 100.050
+	impr rate : -0.040
+	time = 10.531
+plot start : ew1(150)_images.png
+data.shape : (100, 784)
+data.shape[0] : 100
+plot end : ew1(150)_images.png
+
+plot start : dw1_T(150)_images.png
+data.shape : (100, 784)
+data.shape[0] : 100
+plot end : dw1_T(150)_images.png
+
+plot start : dec_hL1(150)_images.png
+data.shape : (100, 784)
+data.shape[0] : 100
+plot end : dec_hL1(150)_images.png
+
+plot start : enc_hL1_T(150)_images.png
+data.shape : (100, 784)
+data.shape[0] : 100
+plot end : enc_hL1_T(150)_images.png
+
+Layer : 0.010586096905171871
+画像一致率（二乗誤差）
+ew1_images, enc_hidden_T :  0.006358569487929344
+dw1_T_images, dec_hidden :  0.01168484054505825
+平均二乗誤差平方根(RMSE)
+ew1_images, enc_hidden_T :  0.07974058339619096
+dw1_T_images, dec_hidden :  0.10809663048981469
+epoch : 151
+	train mean loss = 0.08698305938392878
+	test  mean loss = 0.0744283040240407
+	ratio : 99.872
+	impr rate : 0.177
+	time = 10.719
+epoch : 152
+	train mean loss = 0.08695236090570688
+	test  mean loss = 0.07438365701586008
+	ratio : 99.813
+	impr rate : 0.060
+	time = 10.625
+epoch : 153
+	train mean loss = 0.08699952409913142
+	test  mean loss = 0.07493510004132986
+	ratio : 100.552
+	impr rate : -0.741
+	time = 10.679
+epoch : 154
+	train mean loss = 0.08700155861675739
+	test  mean loss = 0.07457583352923393
+	ratio : 100.070
+	impr rate : 0.479
+	time = 10.711
+epoch : 155
+	train mean loss = 0.08696535664300124
+	test  mean loss = 0.07451810199767352
+	ratio : 99.993
+	impr rate : 0.077
+	time = 10.636
+epoch : 156
+	train mean loss = 0.08696459852159023
+	test  mean loss = 0.07428923077881336
+	ratio : 99.686
+	impr rate : 0.307
+	time = 10.638
+epoch : 157
+	train mean loss = 0.08697063993662596
+	test  mean loss = 0.07452753573656082
+	ratio : 100.006
+	impr rate : -0.321
+	time = 10.702
+epoch : 158
+	train mean loss = 0.08690844545761744
+	test  mean loss = 0.07473041843622923
+	ratio : 100.278
+	impr rate : -0.272
+	time = 10.688
+epoch : 159
+	train mean loss = 0.08695305383453766
+	test  mean loss = 0.07438981205224991
+	ratio : 99.821
+	impr rate : 0.456
+	time = 10.832
+epoch : 160
+	train mean loss = 0.08696218779931465
+	test  mean loss = 0.07455656222999096
+	ratio : 100.045
+	impr rate : -0.224
+	time = 10.707
+epoch : 161
+	train mean loss = 0.08699505496770144
+	test  mean loss = 0.07449656017124653
+	ratio : 99.964
+	impr rate : 0.080
+	time = 10.832
+epoch : 162
+	train mean loss = 0.08697937830040853
+	test  mean loss = 0.0744094006344676
+	ratio : 99.847
+	impr rate : 0.117
+	time = 10.627
+epoch : 163
+	train mean loss = 0.08694884400814772
+	test  mean loss = 0.07466572120785714
+	ratio : 100.191
+	impr rate : -0.344
+	time = 10.694
+epoch : 164
+	train mean loss = 0.08697422755261262
+	test  mean loss = 0.07459909774363041
+	ratio : 100.102
+	impr rate : 0.089
+	time = 10.701
+epoch : 165
+	train mean loss = 0.08700391940772534
+	test  mean loss = 0.07468158524483443
+	ratio : 100.212
+	impr rate : -0.111
+	time = 10.679
+epoch : 166
+	train mean loss = 0.08697528863946596
+	test  mean loss = 0.0745496803894639
+	ratio : 100.035
+	impr rate : 0.177
+	time = 10.805
+epoch : 167
+	train mean loss = 0.08696560833603144
+	test  mean loss = 0.0746734058111906
+	ratio : 100.201
+	impr rate : -0.166
+	time = 10.739
+epoch : 168
+	train mean loss = 0.08697813815126816
+	test  mean loss = 0.07467529453337192
+	ratio : 100.204
+	impr rate : -0.003
+	time = 10.824
+epoch : 169
+	train mean loss = 0.08696185400088628
+	test  mean loss = 0.07465722300112247
+	ratio : 100.180
+	impr rate : 0.024
+	time = 10.879
+epoch : 170
+	train mean loss = 0.08696289081126451
+	test  mean loss = 0.07454217430204153
+	ratio : 100.025
+	impr rate : 0.154
+	time = 10.781
+epoch : 171
+	train mean loss = 0.0869781385237972
+	test  mean loss = 0.07467836044728755
+	ratio : 100.208
+	impr rate : -0.183
+	time = 10.657
+epoch : 172
+	train mean loss = 0.08695586220671733
+	test  mean loss = 0.07456990011036396
+	ratio : 100.062
+	impr rate : 0.145
+	time = 10.660
+epoch : 173
+	train mean loss = 0.08697117634117603
+	test  mean loss = 0.07447298411279916
+	ratio : 99.932
+	impr rate : 0.130
+	time = 10.814
+epoch : 174
+	train mean loss = 0.08695663118114073
+	test  mean loss = 0.07474515791982413
+	ratio : 100.298
+	impr rate : -0.365
+	time = 10.691
+epoch : 175
+	train mean loss = 0.08696186617016792
+	test  mean loss = 0.07473934929817914
+	ratio : 100.290
+	impr rate : 0.008
+	time = 10.792
+epoch : 176
+	train mean loss = 0.08698553126305342
+	test  mean loss = 0.07448833517730236
+	ratio : 99.953
+	impr rate : 0.336
+	time = 10.715
+epoch : 177
+	train mean loss = 0.08697077502806981
+	test  mean loss = 0.07481335997581481
+	ratio : 100.389
+	impr rate : -0.436
+	time = 10.743
+epoch : 178
+	train mean loss = 0.08698040409634511
+	test  mean loss = 0.07460885398089885
+	ratio : 100.115
+	impr rate : 0.273
+	time = 10.736
+epoch : 179
+	train mean loss = 0.08696227919310331
+	test  mean loss = 0.07448592782020569
+	ratio : 99.950
+	impr rate : 0.165
+	time = 10.659
+epoch : 180
+	train mean loss = 0.08700735593835512
+	test  mean loss = 0.07480296678841114
+	ratio : 100.375
+	impr rate : -0.426
+	time = 10.724
+epoch : 181
+	train mean loss = 0.08699270392457645
+	test  mean loss = 0.07465449422597885
+	ratio : 100.176
+	impr rate : 0.198
+	time = 10.718
+epoch : 182
+	train mean loss = 0.08696521586428085
+	test  mean loss = 0.07461788080632686
+	ratio : 100.127
+	impr rate : 0.049
+	time = 10.784
+epoch : 183
+	train mean loss = 0.08697923516233762
+	test  mean loss = 0.07461782813072204
+	ratio : 100.127
+	impr rate : 0.000
+	time = 10.786
+epoch : 184
+	train mean loss = 0.08696705831835667
+	test  mean loss = 0.07446400307118893
+	ratio : 99.920
+	impr rate : 0.206
+	time = 10.742
+epoch : 185
+	train mean loss = 0.08694499655316273
+	test  mean loss = 0.07463950883597135
+	ratio : 100.156
+	impr rate : -0.236
+	time = 10.718
+epoch : 186
+	train mean loss = 0.08695701306064924
+	test  mean loss = 0.07473712410777807
+	ratio : 100.287
+	impr rate : -0.131
+	time = 10.660
+epoch : 187
+	train mean loss = 0.08697785304238399
+	test  mean loss = 0.07438739076256752
+	ratio : 99.818
+	impr rate : 0.468
+	time = 10.669
+epoch : 188
+	train mean loss = 0.08699629535277685
+	test  mean loss = 0.07482591915875673
+	ratio : 100.406
+	impr rate : -0.590
+	time = 10.743
+epoch : 189
+	train mean loss = 0.08691453959792853
+	test  mean loss = 0.07455889590084552
+	ratio : 100.048
+	impr rate : 0.357
+	time = 10.621
+epoch : 190
+	train mean loss = 0.0869783712302645
+	test  mean loss = 0.07467174291610718
+	ratio : 100.199
+	impr rate : -0.151
+	time = 10.777
+epoch : 191
+	train mean loss = 0.0869330325225989
+	test  mean loss = 0.07440888550132513
+	ratio : 99.846
+	impr rate : 0.352
+	time = 10.744
+epoch : 192
+	train mean loss = 0.0869429700449109
+	test  mean loss = 0.0746175503730774
+	ratio : 100.126
+	impr rate : -0.280
+	time = 10.640
+epoch : 193
+	train mean loss = 0.08695780782649914
+	test  mean loss = 0.07468919578939676
+	ratio : 100.223
+	impr rate : -0.096
+	time = 10.715
+epoch : 194
+	train mean loss = 0.08697324557850758
+	test  mean loss = 0.07438532184809446
+	ratio : 99.815
+	impr rate : 0.407
+	time = 10.666
+epoch : 195
+	train mean loss = 0.08694407656788826
+	test  mean loss = 0.07444395080208778
+	ratio : 99.893
+	impr rate : -0.079
+	time = 10.939
+epoch : 196
+	train mean loss = 0.08698329231391351
+	test  mean loss = 0.07458285480737686
+	ratio : 100.080
+	impr rate : -0.187
+	time = 10.901
+epoch : 197
+	train mean loss = 0.08701093720893065
+	test  mean loss = 0.07449527945369482
+	ratio : 99.962
+	impr rate : 0.117
+	time = 10.766
+epoch : 198
+	train mean loss = 0.08700679705788691
+	test  mean loss = 0.07465716693550348
+	ratio : 100.180
+	impr rate : -0.217
+	time = 10.727
+epoch : 199
+	train mean loss = 0.08694831411043803
+	test  mean loss = 0.07466442201286555
+	ratio : 100.189
+	impr rate : -0.010
+	time = 10.651
+epoch : 200
+	train mean loss = 0.08693902195741733
+	test  mean loss = 0.07441724751144647
+	ratio : 99.858
+	impr rate : 0.331
+	time = 10.669
+plot start : ew1(200)_images.png
+data.shape : (100, 784)
+data.shape[0] : 100
+plot end : ew1(200)_images.png
+
+plot start : dw1_T(200)_images.png
+data.shape : (100, 784)
+data.shape[0] : 100
+plot end : dw1_T(200)_images.png
+
+plot start : dec_hL1(200)_images.png
+data.shape : (100, 784)
+data.shape[0] : 100
+plot end : dec_hL1(200)_images.png
+
+plot start : enc_hL1_T(200)_images.png
+data.shape : (100, 784)
+data.shape[0] : 100
+plot end : enc_hL1_T(200)_images.png
+
+Layer : 0.010588658042252064
+画像一致率（二乗誤差）
+ew1_images, enc_hidden_T :  0.006489662453532219
+dw1_T_images, dec_hidden :  0.01185841578990221
+平均二乗誤差平方根(RMSE)
+ew1_images, enc_hidden_T :  0.08055838631680602
+dw1_T_images, dec_hidden :  0.10889643039929524
+epoch : 201
+	train mean loss = 0.08699175267169873
+	test  mean loss = 0.0745927607268095
+	ratio : 100.093
+	impr rate : -0.236
+	time = 10.764
+epoch : 202
+	train mean loss = 0.08694905664771796
+	test  mean loss = 0.07487489145249128
+	ratio : 100.472
+	impr rate : -0.378
+	time = 10.491
+epoch : 203
+	train mean loss = 0.08696597177535295
+	test  mean loss = 0.07473229352384805
+	ratio : 100.280
+	impr rate : 0.190
+	time = 10.609
+epoch : 204
+	train mean loss = 0.087016847829024
+	test  mean loss = 0.07463661052286624
+	ratio : 100.152
+	impr rate : 0.128
+	time = 10.556
+epoch : 205
+	train mean loss = 0.08697724601874748
+	test  mean loss = 0.07438078112900257
+	ratio : 99.809
+	impr rate : 0.343
+	time = 10.608
+epoch : 206
+	train mean loss = 0.08697873320430517
+	test  mean loss = 0.07460901953279972
+	ratio : 100.115
+	impr rate : -0.307
+	time = 10.566
+epoch : 207
+	train mean loss = 0.08697712273647387
+	test  mean loss = 0.07453388072550297
+	ratio : 100.014
+	impr rate : 0.101
+	time = 10.726
+epoch : 208
+	train mean loss = 0.08700845376898846
+	test  mean loss = 0.07478116892278194
+	ratio : 100.346
+	impr rate : -0.332
+	time = 10.641
+epoch : 209
+	train mean loss = 0.08698510265598694
+	test  mean loss = 0.07465279702097177
+	ratio : 100.174
+	impr rate : 0.172
+	time = 10.528
+epoch : 210
+	train mean loss = 0.08698435232043267
+	test  mean loss = 0.07479936569929123
+	ratio : 100.370
+	impr rate : -0.196
+	time = 10.510
+epoch : 211
+	train mean loss = 0.08697486498703559
+	test  mean loss = 0.07443506013602018
+	ratio : 99.882
+	impr rate : 0.487
+	time = 10.722
+epoch : 212
+	train mean loss = 0.08698046910266082
+	test  mean loss = 0.07441545113921165
+	ratio : 99.855
+	impr rate : 0.026
+	time = 10.533
+epoch : 213
+	train mean loss = 0.08695792980492115
+	test  mean loss = 0.07476832780987025
+	ratio : 100.329
+	impr rate : -0.474
+	time = 10.690
+epoch : 214
+	train mean loss = 0.08692429058253764
+	test  mean loss = 0.07446915403008461
+	ratio : 99.927
+	impr rate : 0.400
+	time = 10.847
+epoch : 215
+	train mean loss = 0.08697684193650881
+	test  mean loss = 0.07449588816612959
+	ratio : 99.963
+	impr rate : -0.036
+	time = 10.691
+epoch : 216
+	train mean loss = 0.08697823872168858
+	test  mean loss = 0.0745566427707672
+	ratio : 100.045
+	impr rate : -0.082
+	time = 10.745
+epoch : 217
+	train mean loss = 0.08698675822466612
+	test  mean loss = 0.0746056006476283
+	ratio : 100.110
+	impr rate : -0.066
+	time = 10.619
+epoch : 218
+	train mean loss = 0.0869145176683863
+	test  mean loss = 0.07446513183414936
+	ratio : 99.922
+	impr rate : 0.188
+	time = 10.635
+epoch : 219
+	train mean loss = 0.08698287246127924
+	test  mean loss = 0.07463995024561881
+	ratio : 100.156
+	impr rate : -0.235
+	time = 10.590
+epoch : 220
+	train mean loss = 0.08695678062736988
+	test  mean loss = 0.07458209246397018
+	ratio : 100.079
+	impr rate : 0.078
+	time = 10.703
+epoch : 221
+	train mean loss = 0.08695648251722256
+	test  mean loss = 0.07459668673574925
+	ratio : 100.098
+	impr rate : -0.020
+	time = 10.669
+epoch : 222
+	train mean loss = 0.0869635603701075
+	test  mean loss = 0.07497899878770113
+	ratio : 100.611
+	impr rate : -0.513
+	time = 10.661
+epoch : 223
+	train mean loss = 0.08698691467444102
+	test  mean loss = 0.07472820684313775
+	ratio : 100.275
+	impr rate : 0.334
+	time = 10.608
+epoch : 224
+	train mean loss = 0.08702602392683427
+	test  mean loss = 0.07472426023334265
+	ratio : 100.270
+	impr rate : 0.005
+	time = 10.724
+epoch : 225
+	train mean loss = 0.0869913032775124
+	test  mean loss = 0.07455281559377909
+	ratio : 100.040
+	impr rate : 0.229
+	time = 10.596
+epoch : 226
+	train mean loss = 0.0869343118617932
+	test  mean loss = 0.07460662271827459
+	ratio : 100.112
+	impr rate : -0.072
+	time = 10.723
+epoch : 227
+	train mean loss = 0.08695489070067804
+	test  mean loss = 0.07471723459661007
+	ratio : 100.260
+	impr rate : -0.148
+	time = 10.765
+epoch : 228
+	train mean loss = 0.08696206542352836
+	test  mean loss = 0.07484057821333408
+	ratio : 100.426
+	impr rate : -0.165
+	time = 10.842
+epoch : 229
+	train mean loss = 0.08699214567740758
+	test  mean loss = 0.0746898453682661
+	ratio : 100.223
+	impr rate : 0.201
+	time = 10.645
+epoch : 230
+	train mean loss = 0.08696102548390627
+	test  mean loss = 0.07448143634945154
+	ratio : 99.944
+	impr rate : 0.279
+	time = 10.716
+epoch : 231
+	train mean loss = 0.08696159671992064
+	test  mean loss = 0.0747906655818224
+	ratio : 100.359
+	impr rate : -0.415
+	time = 10.675
+epoch : 232
+	train mean loss = 0.08700846008956432
+	test  mean loss = 0.07459431760013104
+	ratio : 100.095
+	impr rate : 0.263
+	time = 10.673
+epoch : 233
+	train mean loss = 0.08697228639076153
+	test  mean loss = 0.07470885541290045
+	ratio : 100.249
+	impr rate : -0.154
+	time = 10.639
+epoch : 234
+	train mean loss = 0.08696045940121015
+	test  mean loss = 0.07456390898674727
+	ratio : 100.054
+	impr rate : 0.194
+	time = 10.716
+epoch : 235
+	train mean loss = 0.08700163030376037
+	test  mean loss = 0.07473294600844384
+	ratio : 100.281
+	impr rate : -0.227
+	time = 10.728
+epoch : 236
+	train mean loss = 0.08697118494659663
+	test  mean loss = 0.07455813940614461
+	ratio : 100.047
+	impr rate : 0.234
+	time = 10.630
+epoch : 237
+	train mean loss = 0.08696930068234603
+	test  mean loss = 0.07448108863085508
+	ratio : 99.943
+	impr rate : 0.103
+	time = 10.742
+epoch : 238
+	train mean loss = 0.08696496460586786
+	test  mean loss = 0.07428329017013312
+	ratio : 99.678
+	impr rate : 0.266
+	time = 10.713
+epoch : 239
+	train mean loss = 0.08700289094199737
+	test  mean loss = 0.07457865599542857
+	ratio : 100.074
+	impr rate : -0.398
+	time = 10.668
+epoch : 240
+	train mean loss = 0.08695225853472949
+	test  mean loss = 0.07482388507574797
+	ratio : 100.403
+	impr rate : -0.329
+	time = 10.656
+epoch : 241
+	train mean loss = 0.08698975303520759
+	test  mean loss = 0.0746530432626605
+	ratio : 100.174
+	impr rate : 0.228
+	time = 10.684
+epoch : 242
+	train mean loss = 0.08696467657883962
+	test  mean loss = 0.0745779763162136
+	ratio : 100.073
+	impr rate : 0.101
+	time = 10.618
+epoch : 243
+	train mean loss = 0.08696266457438469
+	test  mean loss = 0.07455674555152654
+	ratio : 100.045
+	impr rate : 0.028
+	time = 10.729
+epoch : 244
+	train mean loss = 0.08693343619505564
+	test  mean loss = 0.07452070225030184
+	ratio : 99.996
+	impr rate : 0.048
+	time = 10.763
+epoch : 245
+	train mean loss = 0.08696231849491597
+	test  mean loss = 0.0744648751989007
+	ratio : 99.922
+	impr rate : 0.075
+	time = 10.702
+epoch : 246
+	train mean loss = 0.08695980926354727
+	test  mean loss = 0.07450234428048134
+	ratio : 99.972
+	impr rate : -0.050
+	time = 10.674
+epoch : 247
+	train mean loss = 0.08695251718163491
+	test  mean loss = 0.07457954902201891
+	ratio : 100.075
+	impr rate : -0.104
+	time = 10.683
+epoch : 248
+	train mean loss = 0.08697593367348115
+	test  mean loss = 0.07471863739192486
+	ratio : 100.262
+	impr rate : -0.186
+	time = 10.749
+epoch : 249
+	train mean loss = 0.08695760738104581
+	test  mean loss = 0.07433950193226338
+	ratio : 99.753
+	impr rate : 0.507
+	time = 10.676
+epoch : 250
+	train mean loss = 0.08698489283521971
+	test  mean loss = 0.07458248108625412
+	ratio : 100.079
+	impr rate : -0.327
+	time = 10.763
+plot start : ew1(250)_images.png
+data.shape : (100, 784)
+data.shape[0] : 100
+plot end : ew1(250)_images.png
+
+plot start : dw1_T(250)_images.png
+data.shape : (100, 784)
+data.shape[0] : 100
+plot end : dw1_T(250)_images.png
+
+plot start : dec_hL1(250)_images.png
+data.shape : (100, 784)
+data.shape[0] : 100
+plot end : dec_hL1(250)_images.png
+
+plot start : enc_hL1_T(250)_images.png
+data.shape : (100, 784)
+data.shape[0] : 100
+plot end : enc_hL1_T(250)_images.png
+
+Layer : 0.010589782148599625
+画像一致率（二乗誤差）
+ew1_images, enc_hidden_T :  0.006513719912618399
+dw1_T_images, dec_hidden :  0.01175850909203291
+平均二乗誤差平方根(RMSE)
+ew1_images, enc_hidden_T :  0.08070755933449707
+dw1_T_images, dec_hidden :  0.10843671947522644
+epoch : 251
+	train mean loss = 0.08695174941172203
+	test  mean loss = 0.07456325124949217
+	ratio : 100.054
+	impr rate : 0.026
+	time = 10.640
+epoch : 252
+	train mean loss = 0.08698314682890972
+	test  mean loss = 0.07474548928439617
+	ratio : 100.298
+	impr rate : -0.244
+	time = 10.727
+epoch : 253
+	train mean loss = 0.08696884424736102
+	test  mean loss = 0.07432999238371849
+	ratio : 99.741
+	impr rate : 0.556
+	time = 10.755
+epoch : 254
+	train mean loss = 0.0869779796153307
+	test  mean loss = 0.07473186433315276
+	ratio : 100.280
+	impr rate : -0.541
+	time = 10.694
+epoch : 255
+	train mean loss = 0.0870008414487044
+	test  mean loss = 0.07472260393202305
+	ratio : 100.267
+	impr rate : 0.012
+	time = 10.689
+epoch : 256
+	train mean loss = 0.08697763583312432
+	test  mean loss = 0.07444962099194527
+	ratio : 99.901
+	impr rate : 0.365
+	time = 10.794
+epoch : 257
+	train mean loss = 0.08691172743837039
+	test  mean loss = 0.0744662318751216
+	ratio : 99.923
+	impr rate : -0.022
+	time = 10.797
+epoch : 258
+	train mean loss = 0.08698276681204636
+	test  mean loss = 0.07461247902363538
+	ratio : 100.120
+	impr rate : -0.196
+	time = 10.711
+epoch : 259
+	train mean loss = 0.0869930305207769
+	test  mean loss = 0.07462078362703323
+	ratio : 100.131
+	impr rate : -0.011
+	time = 10.646
+epoch : 260
+	train mean loss = 0.0869848320260644
+	test  mean loss = 0.0746340836957097
+	ratio : 100.149
+	impr rate : -0.018
+	time = 10.725
+epoch : 261
+	train mean loss = 0.08699352208524942
+	test  mean loss = 0.07466910801827907
+	ratio : 100.196
+	impr rate : -0.047
+	time = 10.875
+epoch : 262
+	train mean loss = 0.0869943272570769
+	test  mean loss = 0.0746359233930707
+	ratio : 100.151
+	impr rate : 0.044
+	time = 10.676
+epoch : 263
+	train mean loss = 0.08698827764640252
+	test  mean loss = 0.07447144210338592
+	ratio : 99.930
+	impr rate : 0.220
+	time = 10.534
+epoch : 264
+	train mean loss = 0.08695095063497622
+	test  mean loss = 0.07460441913455725
+	ratio : 100.109
+	impr rate : -0.179
+	time = 10.620
+epoch : 265
+	train mean loss = 0.08697015304118395
+	test  mean loss = 0.07487279862165451
+	ratio : 100.469
+	impr rate : -0.360
+	time = 10.691
+epoch : 266
+	train mean loss = 0.08698014989495277
+	test  mean loss = 0.07439717099070549
+	ratio : 99.831
+	impr rate : 0.635
+	time = 10.782
+epoch : 267
+	train mean loss = 0.08700341788431008
+	test  mean loss = 0.0745394142717123
+	ratio : 100.022
+	impr rate : -0.191
+	time = 10.706
+epoch : 268
+	train mean loss = 0.08693535305559635
+	test  mean loss = 0.07450373437255621
+	ratio : 99.974
+	impr rate : 0.048
+	time = 10.602
+epoch : 269
+	train mean loss = 0.08697288485864799
+	test  mean loss = 0.07447319746017456
+	ratio : 99.933
+	impr rate : 0.041
+	time = 10.572
+epoch : 270
+	train mean loss = 0.08697891432791949
+	test  mean loss = 0.07450946871191264
+	ratio : 99.981
+	impr rate : -0.049
+	time = 10.541
+epoch : 271
+	train mean loss = 0.08692145290474097
+	test  mean loss = 0.07453409429639578
+	ratio : 100.014
+	impr rate : -0.033
+	time = 10.573
+epoch : 272
+	train mean loss = 0.08698001019656658
+	test  mean loss = 0.07440209198743104
+	ratio : 99.837
+	impr rate : 0.177
+	time = 10.725
+epoch : 273
+	train mean loss = 0.08700700810799997
+	test  mean loss = 0.07463890478014946
+	ratio : 100.155
+	impr rate : -0.318
+	time = 10.580
+epoch : 274
+	train mean loss = 0.08697841292868058
+	test  mean loss = 0.07480013124644756
+	ratio : 100.371
+	impr rate : -0.216
+	time = 10.655
+epoch : 275
+	train mean loss = 0.08697486304988464
+	test  mean loss = 0.07464502971619368
+	ratio : 100.163
+	impr rate : 0.207
+	time = 10.677
+epoch : 276
+	train mean loss = 0.08696313918878634
+	test  mean loss = 0.07425698071718216
+	ratio : 99.643
+	impr rate : 0.520
+	time = 10.651
+epoch : 277
+	train mean loss = 0.08696223424126705
+	test  mean loss = 0.0744689680635929
+	ratio : 99.927
+	impr rate : -0.285
+	time = 10.644
+epoch : 278
+	train mean loss = 0.08701804279039303
+	test  mean loss = 0.07481670890003443
+	ratio : 100.394
+	impr rate : -0.467
+	time = 10.625
+epoch : 279
+	train mean loss = 0.08695778311540683
+	test  mean loss = 0.07444864135235547
+	ratio : 99.900
+	impr rate : 0.492
+	time = 10.808
+epoch : 280
+	train mean loss = 0.08698048790295919
+	test  mean loss = 0.07444152358919381
+	ratio : 99.890
+	impr rate : 0.010
+	time = 10.718
+epoch : 281
+	train mean loss = 0.0869566797465086
+	test  mean loss = 0.07465390104800462
+	ratio : 100.175
+	impr rate : -0.285
+	time = 10.663
+epoch : 282
+	train mean loss = 0.08697089379032454
+	test  mean loss = 0.07438424114137888
+	ratio : 99.813
+	impr rate : 0.361
+	time = 10.667
+epoch : 283
+	train mean loss = 0.08700429085642099
+	test  mean loss = 0.07430584535002709
+	ratio : 99.708
+	impr rate : 0.105
+	time = 10.672
+epoch : 284
+	train mean loss = 0.08692162651568651
+	test  mean loss = 0.07480747494846582
+	ratio : 100.381
+	impr rate : -0.675
+	time = 10.730
+epoch : 285
+	train mean loss = 0.08701497559746106
+	test  mean loss = 0.07449373431503772
+	ratio : 99.960
+	impr rate : 0.419
+	time = 10.611
+epoch : 286
+	train mean loss = 0.08699194027731816
+	test  mean loss = 0.07474323682487011
+	ratio : 100.295
+	impr rate : -0.335
+	time = 10.656
+epoch : 287
+	train mean loss = 0.08695979620019595
+	test  mean loss = 0.07461221609264612
+	ratio : 100.119
+	impr rate : 0.175
+	time = 10.697
+epoch : 288
+	train mean loss = 0.08699106725553672
+	test  mean loss = 0.07454742141067981
+	ratio : 100.032
+	impr rate : 0.087
+	time = 10.608
+epoch : 289
+	train mean loss = 0.08697479295233886
+	test  mean loss = 0.07451887421309948
+	ratio : 99.994
+	impr rate : 0.038
+	time = 10.795
+epoch : 290
+	train mean loss = 0.08702382352203131
+	test  mean loss = 0.07467421613633633
+	ratio : 100.202
+	impr rate : -0.208
+	time = 10.718
+epoch : 291
+	train mean loss = 0.08695549139132103
+	test  mean loss = 0.07442392088472843
+	ratio : 99.867
+	impr rate : 0.335
+	time = 10.687
+epoch : 292
+	train mean loss = 0.08698862599829833
+	test  mean loss = 0.07448860011994839
+	ratio : 99.953
+	impr rate : -0.087
+	time = 10.640
+epoch : 293
+	train mean loss = 0.08696532980849346
+	test  mean loss = 0.074548996463418
+	ratio : 100.034
+	impr rate : -0.081
+	time = 10.741
+epoch : 294
+	train mean loss = 0.08696385891487202
+	test  mean loss = 0.0745273381844163
+	ratio : 100.005
+	impr rate : 0.029
+	time = 10.721
+epoch : 295
+	train mean loss = 0.08698798395693302
+	test  mean loss = 0.07488396544009447
+	ratio : 100.484
+	impr rate : -0.479
+	time = 10.769
+epoch : 296
+	train mean loss = 0.08697857022285461
+	test  mean loss = 0.07480782892554999
+	ratio : 100.382
+	impr rate : 0.102
+	time = 10.719
+epoch : 297
+	train mean loss = 0.0869247142225504
+	test  mean loss = 0.07454951982945204
+	ratio : 100.035
+	impr rate : 0.345
+	time = 10.749
+epoch : 298
+	train mean loss = 0.0869477682063977
+	test  mean loss = 0.07454734023660421
+	ratio : 100.032
+	impr rate : 0.003
+	time = 10.683
+epoch : 299
+	train mean loss = 0.08698227386921645
+	test  mean loss = 0.07476132821291685
+	ratio : 100.319
+	impr rate : -0.287
+	time = 10.731
+epoch : 300
+	train mean loss = 0.08696200096358855
+	test  mean loss = 0.0743843387439847
+	ratio : 99.813
+	impr rate : 0.504
+	time = 10.866
+plot start : ew1(300)_images.png
+data.shape : (100, 784)
+data.shape[0] : 100
+plot end : ew1(300)_images.png
+
+plot start : dw1_T(300)_images.png
+data.shape : (100, 784)
+data.shape[0] : 100
+plot end : dw1_T(300)_images.png
+
+plot start : dec_hL1(300)_images.png
+data.shape : (100, 784)
+data.shape[0] : 100
+plot end : dec_hL1(300)_images.png
+
+plot start : enc_hL1_T(300)_images.png
+data.shape : (100, 784)
+data.shape[0] : 100
+plot end : enc_hL1_T(300)_images.png
+
+Layer : 0.010594206862151623
+画像一致率（二乗誤差）
+ew1_images, enc_hidden_T :  0.0062426114454865456
+dw1_T_images, dec_hidden :  0.011796395294368267
+平均二乗誤差平方根(RMSE)
+ew1_images, enc_hidden_T :  0.07901009817107417
+dw1_T_images, dec_hidden :  0.10861140457559751
+plot start : IO_images.png
+plot end : IO_images.png
+

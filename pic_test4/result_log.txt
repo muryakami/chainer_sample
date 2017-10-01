@@ -1,0 +1,46 @@
+plot start : ew1(30)_images.png
+data.shape : (196, 784)
+data.shape[0] : 196
+plot end : ew1(30)_images.png
+
+plot start : ew2(30)_images.png
+data.shape : (49, 196)
+data.shape[0] : 49
+plot end : ew2(30)_images.png
+
+plot start : dw2_T(30)_images.png
+data.shape : (49, 196)
+data.shape[0] : 49
+plot end : dw2_T(30)_images.png
+
+plot start : dw1_T(30)_images.png
+data.shape : (196, 784)
+data.shape[0] : 196
+plot end : dw1_T(30)_images.png
+
+plot start : dec_hL1(30)_images.png
+/Users/yuki/.pyenv/versions/anaconda3-2.3.0/lib/python3.4/site-packages/matplotlib/pyplot.py:424: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+  max_open_warning, RuntimeWarning)
+data.shape : (196, 784)
+data.shape[0] : 196
+plot end : dec_hL1(30)_images.png
+
+plot start : enc_hL1(30)_T_images.png
+data.shape : (196, 784)
+data.shape[0] : 196
+plot end : enc_hL1(30)_T_images.png
+
+plot start : dec_hL2(30)_images.png
+data.shape : (49, 784)
+data.shape[0] : 49
+plot end : dec_hL2(30)_images.png
+
+plot start : enc_hL2(30)_T_images.png
+data.shape : (49, 784)
+data.shape[0] : 49
+plot end : enc_hL2(30)_T_images.png
+
+Traceback (most recent call last):
+  File "SdA_mnist_y.py", line 939, in <module>
+    pickle.dump(model, open('./pic_test4/test_SAE.pkl', 'wb'), -1)
+NameError: name 'pickle' is not defined
